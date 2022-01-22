@@ -5,4 +5,6 @@ using namespace std;
 
 class Help
 {
+  cout<<"This should work pls.\n";
+}
   
